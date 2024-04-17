@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069488346220",
+    "project_id": "flat-chat-cb426",
+    "storage_bucket": "flat-chat-cb426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069488346220:android:a1230ba3520226168af449",
+        "android_client_info": {
+          "package_name": "com.hameez.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069488346220-sj3fftjltpd7ko9454pgggesc7ivqvrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EV1J6mzELDkchVFFpZKiZr1M2FTF1Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069488346220-sj3fftjltpd7ko9454pgggesc7ivqvrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
